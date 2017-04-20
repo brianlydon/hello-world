@@ -1,6 +1,6 @@
-# Hello,
-## world!
+# :smiley: Hello,world! :smiley:
 
-[My CIS Website on UOregon.edu](http://pages.uoregon.edu/blydon/111/)
+
+:rocket:[My CIS Website on UOregon.edu](http://pages.uoregon.edu/blydon/111/)
 
 ![github social coding logo](images/j.png)
